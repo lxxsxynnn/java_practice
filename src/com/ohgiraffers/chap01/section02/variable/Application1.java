@@ -1,4 +1,4 @@
-package com.ohgiraffers.section02.variable;
+package com.ohgiraffers.chap01.section02.variable;
 
 public class Application1 {
 
