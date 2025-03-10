@@ -12,7 +12,7 @@ public class Application9 {
         두 값이 동일한 경우는 존재하지 않는다고 가정
         */
 
-        /* 최대값 최소값을 비교할 두 정수를 변수로 선언 */
+        /* 최댓값 최솟값을 비교할 두 정수를 변수로 선언 */
         int first = 100;
         int second = 50;
 
@@ -24,7 +24,7 @@ public class Application9 {
         Calculator calc = new Calculator();
         int min = calc.minNumberOf(first, second);
 
-        System.out.println("두 수 중 최소값은 : " + min);
+        System.out.println("두 수 중 최솟값은 : " + min);
 
         /* 2. static 메소드인 경우 */
         /* 다른 클래스에 작성한 static 메소드의 경우 호출할 때 클래스명을 반드시 기술해야 함
@@ -33,7 +33,7 @@ public class Application9 {
         //int max = maxNumberOf(first, second);       //클래스명을 생략하면 에러 발생
         int max = Calculator.maxNumberOf(first, second);
 
-        System.out.println("두 수 중 최대값은 : " + max);
+        System.out.println("두 수 중 최댓값은 : " + max);
 
         /*
         * static 메소드도 non-static 메소드처럼 호출 가능
