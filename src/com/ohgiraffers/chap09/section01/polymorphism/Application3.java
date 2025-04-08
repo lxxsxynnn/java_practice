@@ -1,4 +1,4 @@
-package com.ohgiraffers.chap09.polymorphism;
+package com.ohgiraffers.chap09.section01.polymorphism;
 
 public class Application3 {
 
