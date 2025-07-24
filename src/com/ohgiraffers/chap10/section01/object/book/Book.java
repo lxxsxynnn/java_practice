@@ -1,4 +1,4 @@
-package com.ohgiraffers.chap10.section01.book;
+package com.ohgiraffers.chap10.section01.object.book;
 
 public class Book {
 

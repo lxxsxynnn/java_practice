@@ -1,4 +1,4 @@
-package com.ohgiraffers.chap01.section03;
+package com.ohgiraffers.chap01.section03.constant;
 
 public class Application2 {
     /*

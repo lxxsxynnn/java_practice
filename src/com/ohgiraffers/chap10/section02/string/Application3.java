@@ -1,4 +1,4 @@
-package com.ohgiraffers.chap10.section02;
+package com.ohgiraffers.chap10.section02.string;
 
 import java.util.StringTokenizer;
 

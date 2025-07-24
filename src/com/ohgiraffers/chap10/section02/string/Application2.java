@@ -1,4 +1,4 @@
-package com.ohgiraffers.chap10.section02;
+package com.ohgiraffers.chap10.section02.string;
 
 public class Application2 {
     public static void main(String[] args) {

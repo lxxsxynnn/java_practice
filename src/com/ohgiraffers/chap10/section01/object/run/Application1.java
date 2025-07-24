@@ -1,6 +1,6 @@
-package com.ohgiraffers.chap10.section01.run;
+package com.ohgiraffers.chap10.section01.object.run;
 
-import com.ohgiraffers.chap10.section01.book.Book;
+import com.ohgiraffers.chap10.section01.object.book.Book;
 
 public class Application1 {
 
