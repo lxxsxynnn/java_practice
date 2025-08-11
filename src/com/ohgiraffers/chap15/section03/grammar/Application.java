@@ -18,7 +18,7 @@ public class Application {
         UserRole2 consumer = UserRole2.CONSUMER;
         System.out.println(consumer.ordinal() + " " + consumer.name() + " " + consumer.getDescription());
 
-        /* 최초 사용 시에만 열거 타입으 인스턴스를 생성하고 이후에는 생성자를 호출하지 않는다. */
+        /* 최초 사용 시에만 열거 타입으로 인스턴스를 생성하고 이후에는 생성자를 호출하지 않는다. */
         UserRole2 consumer2 = UserRole2.CONSUMER;
         /* 인스턴스는 싱글톤으로 관리되기 때문에 동일비교 연산으로 비교가 가능하다. */
         System.out.println(consumer == consumer2);
